@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         Log.d("Test", "Hola mundo")
+        Log.d("Commit Duvan:", "Este es un commit desde otro equipo")
     }
 }
 
